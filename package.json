@@ -1,0 +1,22 @@
+{
+  "name": "calculadoratest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carOrLa03/CalculadoraTest.git"
+  },
+  "author": "carmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carOrLa03/CalculadoraTest/issues"
+  },
+  "homepage": "https://github.com/carOrLa03/CalculadoraTest#readme",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
